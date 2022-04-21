@@ -19,3 +19,4 @@ jobs:
           COMMIT_BY_ME: true
           SHOW_COMMIT: false
           SHOW_PROFILE_VIEWS: false
+          UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M"
